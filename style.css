@@ -1,5 +1,9 @@
-div{
+.div1{
     background-color: cadetblue;
+    border-radius: 10px;
+}
+.div2{
+    background-color: rgb(95, 99, 160);
     border-radius: 10px;
 }
 h1{
