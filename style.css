@@ -6,6 +6,10 @@
     background-color: rgb(95, 99, 160);
     border-radius: 10px;
 }
+.div3{
+    background-color: rgb(160, 95, 160);
+    border-radius: 10px;
+}
 h1{
     color: cornsilk;
     text-transform: capitalize;
